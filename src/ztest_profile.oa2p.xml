@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_OA2P" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROFILE>
+    <PROFILE>ZTEST_PROFILE</PROFILE>
+    <TYPE>DEFAULT</TYPE>
+    <CREATED_BY>DEVELOPER</CREATED_BY>
+    <CREATED_ON>2020-04-12</CREATED_ON>
+    <CREATED_AT>09:17:44</CREATED_AT>
+    <CHANGED_BY>DEVELOPER</CHANGED_BY>
+    <CHANGED_ON>2020-04-12</CHANGED_ON>
+    <CHANGED_AT>09:18:01</CHANGED_AT>
+   </PROFILE>
+   <SCOPES>
+    <OA2P_SCOPES>
+     <PROFILE>ZTEST_PROFILE</PROFILE>
+     <SCOPENO>1</SCOPENO>
+     <SCOPE>offline_access</SCOPE>
+    </OA2P_SCOPES>
+    <OA2P_SCOPES>
+     <PROFILE>ZTEST_PROFILE</PROFILE>
+     <SCOPENO>2</SCOPENO>
+     <SCOPE>read</SCOPE>
+    </OA2P_SCOPES>
+    <OA2P_SCOPES>
+     <PROFILE>ZTEST_PROFILE</PROFILE>
+     <SCOPENO>3</SCOPENO>
+     <SCOPE>write</SCOPE>
+    </OA2P_SCOPES>
+   </SCOPES>
+  </asx:values>
+ </asx:abap>
+</abapGit>
